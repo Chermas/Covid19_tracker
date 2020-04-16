@@ -6,7 +6,7 @@ EXTRA=$2
 ######################################################
 ################	PATH TO REPOSITORY	##############
 ######################################################
-PATH_TO_REPOSITORY=~/scripts
+PATH_TO_REPOSITORY=/path/to/repository
 
 declare -a increases
 
