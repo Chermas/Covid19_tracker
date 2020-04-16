@@ -29,6 +29,8 @@ After that change `$PATH_TO_REPOSITORY` inside `corona.sh` to the path you clone
 
 In `polybar_examples` change the path to where your `corona.sh` script is and configure it as you would with your other modules.
 
+`exec = /path/to/repository/.corona.sh`
+
 ## Usage
 The scripts is made to be run with 2 possible arguments:
 - Country
