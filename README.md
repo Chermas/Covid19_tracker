@@ -25,6 +25,8 @@ Clone this repository into a folder of your choice:
 
 `git clone https://github.com/Chermas/Covid19_tracker.git`
 
+Then give permission to execute `corona.sh` using for example `chmod`
+
 After that change `$PATH_TO_REPOSITORY` inside `corona.sh` to the path you cloned your repository in.
 
 In `polybar_examples` change the path to where your `corona.sh` script is and configure it as you would with your other modules.
