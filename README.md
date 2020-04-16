@@ -56,6 +56,8 @@ The second argument specifies whether the extra information should be shown
 
 ### API-endpoints
 
+*If errors appear theres is a good chance the reason is because the API is down or not sending data*
+
 (https://corona-stats.online/) For stats [Documentation](https://corona-stats.online/help)
 
 (https://corona-api.com/) For trend [Documentation](https://about-corona.net/documentation)
