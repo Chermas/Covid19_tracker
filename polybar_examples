@@ -1,0 +1,15 @@
+[module/covid]
+type = custom/script
+exec = "/path/to/repository/corona.sh world extra"
+format =  <label>
+label = %output%
+interval = 300
+format-underline = ${colors.foreground}
+
+[module/covid_country]
+type = custom/script
+exec = "/path/to/repository/corona.sh denmark extra"
+format =  <label>
+label = %output%
+interval = 300
+format-underline = ${colors.foreground}
