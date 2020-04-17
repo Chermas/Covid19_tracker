@@ -5,7 +5,7 @@
 ## Synopsis
 This is a script that can be used to print the current confirmed cases and deaths of the new Coronavirus.
 
-This script was made having Polybar in mind, however because it just prints out the numbers and icons, it probably works fine with other bars.
+This script was made having Polybar in mind, however because it just prints out the numbers and icons, it probably works fine with other bars and programs
 
 ## Features
 It prints out the current most recent numbers of confirmed cases and deaths of COVID-19 for either the World, or a specific country.
